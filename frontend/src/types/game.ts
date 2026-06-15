@@ -1,3 +1,4 @@
+//src/types/game.ts
 export type Game = {
   id: number;
   title: string | null;

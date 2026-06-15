@@ -1,3 +1,4 @@
+//src/components/deals/BestDealsRow.tsx
 import { useRef } from "react";
 import type { Game } from "../../types/game";
 import { DealCard } from "./DealCard";

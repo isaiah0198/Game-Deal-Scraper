@@ -1,3 +1,4 @@
+//src/pages/Dashboard.tsx
 import { useEffect, useMemo, useState } from "react";
 import { fetchGames } from "../api/games";
 import type { Game } from "../types/game";
